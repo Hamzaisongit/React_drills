@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-let time = new Date().toLocaleTimeString();
+let time = new Date().toLocaleTimeString()
 
 
 const Box = ()=>{
